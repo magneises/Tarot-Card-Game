@@ -28,6 +28,7 @@ body {
   }
   
   #cardDisplay {
+    margin: auto;
     margin-top: 20px;
     width: 250px;
     height: 350px;
